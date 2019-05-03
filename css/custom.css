@@ -1,0 +1,121 @@
+/*--Header&Nav--*/
+.container-fluid {
+    border-bottom: 3px solid #cccccc;
+}
+.container {
+    display: inherit;
+}
+
+.navbar {
+    background-color:#ffffff;
+    
+}
+.navbar-header {
+    border: solid #4aaaa5;
+    padding: 10px 20px 10px 20px;
+    background-color: #4aaaa5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h1 {
+    margin: 10px 5px;
+    color: #ffffff;
+}
+.navbar-brand {
+    height:55px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 10px 15px;
+    font-size: 30px;
+    font-weight: bold;
+    padding: 10px 20px 10px 20px;
+    text-align: center;
+  
+}
+.hamburgermenu span {
+    background: #c0e9e7;
+}
+
+nav .navbar-nav li a {
+    color: #777777;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    font-size: 20px;
+    border-right: 1px solid #cccccc;
+    padding: 0 10px;
+    text-decoration-line: none;
+}
+.nav-item {
+    color: #777777;
+}
+.nav-item a:hover {
+    color: #4aaaa5;
+}
+a.nav-link.active {
+    color: #184946;
+}
+
+/*--Main Content*/
+.main-fluid {
+    background-color: #dddddd;
+    padding-bottom: 100%;
+    /*background-image: url("../assets/images/memphis-mini.png");*/
+    font-family: Arial, Helvetica, sans-serif;
+    color: #777777;
+}
+.main-padding {
+    padding: 30px
+}
+.main-content {
+    max-width: 960px;
+    /*height: 480px;*/
+    margin: 30px auto;
+    background-color: #ffffff;
+}
+h2 {
+    color: #4aaaa5;
+    padding: 20px;
+    border-bottom: 1px solid;
+    border-bottom-color: #777777;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+   
+}
+img {
+    width: auto;
+    height: auto;
+    padding: 20px;
+}
+p {
+    padding: 20px;
+    font-size: 20px;
+}
+footer {
+    background-color: #666666; 
+    border-top: 7px solid;
+    border-color: #4aaaa5;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color: #ffffff;
+    padding: 15px;
+    bottom: 0;
+}
+/*Portfolio Page*/
+
+.card-img-overlay {
+    margin-top: 110px;
+    margin-bottom: 20px;
+    background-color: #4aaaa5;
+    padding: .25rem;
+   
+}
+.card-img {
+    padding: 0;
+    
+}
+.sub-row {
+    padding: 1.5rem;
+}
+form {
+    padding-top: 2rem;
+    padding-bottom: 5rem;
+}
+
+
