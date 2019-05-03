@@ -30,8 +30,8 @@ h1 {
     text-align: center;
   
 }
-.hamburgermenu span {
-    background: #c0e9e7;
+span {
+    border-color: #4aaaa5;
 }
 
 nav .navbar-nav li a {
