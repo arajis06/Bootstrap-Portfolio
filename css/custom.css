@@ -104,22 +104,42 @@ footer {
     
 }
 /*Portfolio Page*/
-.piclabel {
-    height: 80px;
-    top: 202px;
+
+
+.btn-link {
+    color: #ffffff;
+    
 
 }
+.card-img-overlay .piclabel {
+    background-color: #4aaaa5;
+   
 
-.card-img-overlay {
+
+}
+.piclabel {
+    background-color: #4aaaa5;
+    margin-top: 90px;
+    margin-bottom: 25px;
+    
+}
+.card-banner {
+    margin-top: 0;
+   
+}
+
+/*.card-img-overlay {
     margin-top: 110px;
     margin-bottom: 20px;
     background-color: #4aaaa5;
     padding: .25rem;
    
+}*/
+.card-img {
+    padding: 0;
 }
 .card-img {
     padding: 0;
-    
 }
 .sub-row {
     padding: 1.5rem;
